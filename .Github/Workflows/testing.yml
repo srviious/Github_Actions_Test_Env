@@ -1,5 +1,0 @@
-name: This is a test
-on: [push, pull_request]
-  build: 
-    runs on: ubuntu-latest
-    env: 
